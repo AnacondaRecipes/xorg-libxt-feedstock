@@ -1,0 +1,3 @@
+channels:
+  - https://staging.continuum.io/prefect/fs/xorg-libice-feedstock/pr1/7adec5f
+  - https://staging.continuum.io/prefect/fs/xorg-libsm-feedstock/pr1/d8f201a
