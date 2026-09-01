@@ -48,7 +48,7 @@ about:
   license_file: COPYING
   summary: The X.org X11 toolkit intrinsics library.
   description: |
-    The X.org X11 toolkit intrinsics library.
+    The X.org X11 toolkit intrinsics library
 extra:
   recipe-maintainers:
     - pkgw
