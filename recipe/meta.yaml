@@ -10,7 +10,7 @@ source:
   sha256: e0a774b33324f4d4c05b199ea45050f87206586d81655f8bef4dba434d931288
 
 build:
-  number: 0
+  number: 1
   # xorg-libxdmcp, libxcb, libx11, libice aren't available on Windows because their dependencies clash with m2/msys2 and mingw64/ucrt64 toolchains.
   skip: true  # [win]
   detect_binary_files_with_prefix: true
